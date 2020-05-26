@@ -47,3 +47,4 @@ atlassian-ide-plugin.xml
 .idea
 build
 classes
+/target/
