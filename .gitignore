@@ -35,10 +35,10 @@ Thumbs.db
 .idea
 *.iml
 atlassian-ide-plugin.xml
-target
+
 
 # Java artifacts
-*.jar
+
 *.war
 *.ear
 *.class
