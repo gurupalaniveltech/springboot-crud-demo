@@ -20,7 +20,7 @@ RUN apt-get update && \
 ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64/
 RUN export JAVA_HOME
 
-ADD target/spring-boot-web-0.0.2-SNAPSHOT.jar spring-boot-web.jar
+ADD target/spring-boot-web.jar spring-boot-web.jar
 
 EXPOSE 8080  
 
